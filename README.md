@@ -20,7 +20,7 @@ _________________
 
 1. Tomas Vojir, Jana Noskova and Jiri Matas, [“Robust scale-adaptive mean-shift for tracking“](http://101.96.10.63/cmp.felk.cvut.cz/~vojirtom/publications/scia2013.pdf). 
     Pattern Recognition Letters 2014.
-2. [Vojir C++ implement](https://github.com/vojirt/asms)
+2. [Vojir C++ implementation](https://github.com/vojirt/asms)
 3. [VOT2016 Dataset](http://data.votchallenge.net/vot2016/vot2016.zip)
 
 ---
@@ -41,7 +41,7 @@ $ pip install -r requirements.txt
 #### Command
 
 ```bash
-$ python run_obsolete_demo.py train girl/fish1
+$ python run_obsolete_demo.py train folder_name
 ```
 
 ---
