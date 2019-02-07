@@ -41,7 +41,7 @@ $ pip install -r requirements.txt
 #### Command
 
 ```bash
-$ python run_obsolete_demo.py train folder_name
+$ python run_color_tracker.py train folder_name
 ```
 
 ---
